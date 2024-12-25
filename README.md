@@ -28,6 +28,8 @@ From the above characteristic table, we can directly write the next state equati
 
 **PROGRAM**
 Developed by: Sahith M
+
+
 Registered number: 24000251
 ```
 module tflipflop( input clk, rst_n, input t,
